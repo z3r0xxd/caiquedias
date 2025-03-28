@@ -1,7 +1,7 @@
 <h1 align="center">hi 👋,i'm caique</h1>
 <h3 align="center">A passionate information security</h3>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/c4v31r40" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/c4v31r40?logo=twitter&style=for-the-badge" alt="https://x.com/c4v31r40" /></a> </p>
+
 
 - 🌱 I’m currently studying for **CRTO Red Team Operator - Zero Point**
 
