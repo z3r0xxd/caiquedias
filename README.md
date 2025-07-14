@@ -3,7 +3,41 @@
 
 
 
-- 🌱 I’m currently studying for **CRTO Red Team Operator - Zero Point**
+Hi 👋, I'm Caique
+
+A passionate information security professional
+
+
+
+
+
+🌱 I’m currently studying for HTB Certified Penetration Testing Specialist
+
+
+
+📜 Certifications:
+
+
+
+
+
+CRTO – Certified Red Team Operator, Zero-Point Security, 2025
+
+
+
+eCPPT – Penetration Tester Professional, INE, 2024
+
+
+
+eJPT – Penetration Tester Junior, INE, 2024
+
+
+
+CRTA – Red Team Analyst, Cyberwarfare, 2025
+
+
+
+MCRTA – Multi-Cloud Red Team Analyst, 2025
 
 - 📫 How to reach me **https://www.linkedin.com/in/caiquedias-/**
 
